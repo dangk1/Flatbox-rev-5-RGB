@@ -14,7 +14,7 @@ I will provide a screenshot with the correct settings in the web configuration t
 The extra right thumb button is routed to R3 and the tactile switch which had R3 previously (outer right tactile switch) is now routed to Pin 1 on the RP2040 zero. 
 Pin 1 is unused and not activated in the firmware of the Flatbox rev 5 RGB. U can assign anything u want manually in the web configuration of GP2040-CE. (Turbo?).
 
-For the case I used the acrylic Flatbox from Ultra Arcade repository and modified the top 2 panels to fit the button layout. 
+For the case I used the acrylic Flatbox from Ultra Arcade repository and modified the top 2 panels to fit the button layout. I think this case only fits Punk workshop/Sino button caps so I used those.
 
 Link to repo : [
 ](https://github.com/Ultra-Arcade/open-ua-cnc/tree/main/Case%20Designs/Open%20Ultra%20Arcade%20CNC%20-%20Flatbox)https://github.com/Ultra-Arcade/open-ua-cnc/tree/main/Case%20Designs/Open%20Ultra%20Arcade%20CNC%20-%20Flatbox
