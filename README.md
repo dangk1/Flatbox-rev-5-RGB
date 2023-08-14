@@ -16,4 +16,5 @@ Pin 1 is unused and not activated in the firmware of the Flatbox rev 5 RGB. U ca
 
 For the case I used the acrylic Flatbox from Ultra Arcade repository and modified the top 2 panels to fit the button layout. 
 
-Link to repo : https://github.com/Ultra-Arcade/open-ua-cnc/tree/main/Case%20Designs/Open%20Ultra%20Arcade%20CNC%20-%20Basic
+Link to repo : [
+](https://github.com/Ultra-Arcade/open-ua-cnc/tree/main/Case%20Designs/Open%20Ultra%20Arcade%20CNC%20-%20Flatbox)https://github.com/Ultra-Arcade/open-ua-cnc/tree/main/Case%20Designs/Open%20Ultra%20Arcade%20CNC%20-%20Flatbox
