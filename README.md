@@ -1,6 +1,7 @@
 # Flatbox-rev-5-RGB Dang Remix
 
 This is a remix of a remix version of the Flatbox Rev 5 RGB by TheTrain and jfedor from the Openstick Community repository 
+
 Link to repo: https://github.com/OpenStickCommunity/Hardware/tree/main/Flatbox%20Rev%205%20RGB
 
 This remix version adds an extra button to the layout for easy acces with right the thumb primarily made for SF6 (drive impact/parry). I also lowered the placement of P4+K4 buttons because it suits my finger placement more. (I like noir but that would end up a bit too low on the Flatbox)
