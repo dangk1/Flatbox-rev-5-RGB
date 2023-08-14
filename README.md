@@ -13,4 +13,5 @@ The extra right thumb is routed to R3 and the tactile switch which had R3 previo
 Pin 1 is unused and not activated in the firmware of the Flatbox rev 5 RGB. U can assign anything u want manually in the web configuration of GP2040-CE. (Turbo?).
 
 For the case I used the acrylic Flatbox from Ultra Arcade repository and modified the top 2 panels to fit the button layout. 
+
 Link to repo : https://github.com/Ultra-Arcade/open-ua-cnc/tree/main/Case%20Designs/Open%20Ultra%20Arcade%20CNC%20-%20Basic
