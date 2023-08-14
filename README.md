@@ -1,4 +1,6 @@
 # Flatbox-rev-5-RGB Dang Remix
+![1](https://github.com/dangk1/Flatbox-rev-5-RGB/assets/57189623/eeb3adbc-68bf-43e7-81c9-a4440a0ae829)
+![2](https://github.com/dangk1/Flatbox-rev-5-RGB/assets/57189623/89824cba-6d75-44dd-99fa-9608372f00d1)
 
 This is a remix of a remix version of the Flatbox Rev 5 RGB by TheTrain and jfedor from the Openstick Community repository 
 
