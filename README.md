@@ -10,7 +10,7 @@ This remix version adds an extra button to the layout for easy acces with right 
 
 For compatibilty with the original firmware I did not mess with the routing of the pins so updating the Flatbox rev 5 RGB firmware from the GP2040-CE website will cause no functionality problems. 
 However because of the extra button there are 2 more leds that need to be added to the data chain in the configuration. 
-I will provide a screenshot with the correct settings in the web configuration to make it functional.
+I will provide a screenshot with the correct settings in the web configuration to make it functional. You can also load the backed up config file for the led settings in the web config.
 The extra right thumb button is routed to R3 and the tactile switch which had R3 previously (outer right tactile switch) is now routed to Pin 1 on the RP2040 zero. 
 Pin 1 is unused and not activated in the firmware of the Flatbox rev 5 RGB. U can assign anything u want manually in the web configuration of GP2040-CE. (Turbo?).
 
