@@ -6,7 +6,7 @@ This is a remix of a remix version of the Flatbox Rev 5 RGB by TheTrain and jfed
 
 Link to repo: https://github.com/OpenStickCommunity/Hardware/tree/main/Flatbox%20Rev%205%20RGB
 
-This remix version adds an extra button to the layout for easy acces with right the thumb primarily made for SF6 (drive impact/parry). I also lowered the placement of L1+L2 buttons because it suits my finger placement more. (I like noir but that would end up a bit too low on the Flatbox)
+This remix version adds an extra button to the layout for easy acces with the right thumb primarily made for SF6 (drive impact/parry). I also lowered the placement of L1+L2 buttons because it suits my finger placement more. (I like noir but that would end up a bit too low on the Flatbox)
 
 For compatibilty with the original firmware I did not mess with the routing of the pins so updating the Flatbox rev 5 RGB firmware from the GP2040-CE website will cause no functionality problems. 
 However because of the extra button there are 2 more leds that need to be added to the data chain in the configuration. 
